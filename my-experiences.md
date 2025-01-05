@@ -63,7 +63,7 @@ layout: default
 - **Photography**: I like capturing dance movements. Check ([VSCO][vsco])!
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
-- **Blogging**: ...work [in progress][blog]... 🤧!
+- **Blogging**: [...work in progress...][blog] 🤧!
 
 > Add `/mindpalace` after `github.io` to have a peek of another [me][mindpalace]!
 
