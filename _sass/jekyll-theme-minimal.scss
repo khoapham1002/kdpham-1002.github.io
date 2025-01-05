@@ -12,7 +12,7 @@ body {
 img {
   margin: 10px auto;
   width: 80%;
-  height: auto;
+  height: 50%;
   border-radius: 200px;
   display: flex;
   justify-content: center;
@@ -29,9 +29,9 @@ img {
 header {
   width: 315px;
   float: left;
-  // position:fixed;
+  position:fixed;
   top: 0px;
-  font-size: 14px;
+  font-size: 13.75px;
   font-weight: 350;
   border-bottom: 1px solid #dddd;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -42,9 +42,9 @@ header {
 }
 
 section {
-  width: 600px;
+  width: 570px;
   float: right;
-  padding: 10px 10px;
+  padding: 10px 15px;
   font-size: 15.5px;
   font-weight:400;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -61,8 +61,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: white;
-  font-size: 50px;
-  // margin: 10px 0 10px;
+  font-size: 45px;
+  margin: 10px 0 10px;
   text-align: center;
   justify-content: center;
 }
@@ -268,7 +268,7 @@ ul.downloads {
 @media print, screen and (max-width: 960px) {
   body {
     padding: 20px;
-    // word-wrap: normal;
+    overflow-wrap: break-word;
   }
 
   div.wrapper {
@@ -286,14 +286,14 @@ ul.downloads {
 @media print, screen and (max-width: 720px) {
   body {
     padding: 20px;
-    word-wrap:break-word;
+    overflow-wrap: break-word;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 20px;
-    word-wrap:break-word;
+    overflow-wrap: break-word;
   }
 }
 
