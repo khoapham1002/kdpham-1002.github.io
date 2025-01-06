@@ -17,12 +17,13 @@ layout: default
 
 ### Education
 
-#### **University of Massachusetts, Amherst** | _Expected: Dec 2025_
+<!-- #### **University of Massachusetts, Amherst** | _Expected: Dec 2025_ -->
+#### **University of Massachusetts, Amherst**
 
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
   - **GPA:** 3.97/4.0
 - **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
-  - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
+  - Dean’s List (all year), Chancellor’s Award Scholarship
 
 - **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Linear Algebra; Discrete Math; Media Marketing
 
