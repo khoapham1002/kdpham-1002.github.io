@@ -17,8 +17,8 @@ layout: default
 
 ### Education
 
-<!-- #### **University of Massachusetts, Amherst** | _Expected: Dec 2025_ -->
-#### **University of Massachusetts, Amherst**
+#### **University of Massachusetts, Amherst** | _Expected: Dec 2025_
+<!-- #### **University of Massachusetts, Amherst** -->
 
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
   - **GPA:** 3.97/4.0
