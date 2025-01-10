@@ -74,7 +74,7 @@
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
 
-#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| Fall 2021
+#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| 2022 - Present
 
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique and Active Recall for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
