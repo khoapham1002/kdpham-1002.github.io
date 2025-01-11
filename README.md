@@ -68,7 +68,6 @@
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-
 #### **[States Economic Dynamics](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
 
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
