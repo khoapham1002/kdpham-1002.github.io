@@ -86,6 +86,7 @@
 
 #### **[States Economic Dynamics](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
 
+*Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
 
