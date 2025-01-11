@@ -52,25 +52,25 @@
 
 #### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Fall 2024
 
-*Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), PostgreSQL*
+*Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git*
 - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
 - Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile.
 
 #### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Summer 2024
 
-*Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL*
+*Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git*
 - Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
 - Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency.
 
 #### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2023
 
-*Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
+*Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
 
 #### **[Finance Department’s New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
-*Technology: SQLite, Tableau (dashboards), Excel & PowerPoint (reporting)*
+*Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
