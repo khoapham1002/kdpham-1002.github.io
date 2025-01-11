@@ -68,6 +68,11 @@
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
 
+#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| 2022 - Present
+
+*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
+- Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique and Active Recall for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
+
 #### **[Finance Department’s New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
@@ -78,11 +83,6 @@
 
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
-
-#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| 2022 - Present
-
-*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
-- Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique and Active Recall for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
 
 * * *
 
