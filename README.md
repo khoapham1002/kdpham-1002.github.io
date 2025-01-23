@@ -51,17 +51,17 @@
 
 ### Portfolio Projects
 
-#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Fall 2024
-
-*Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
-- Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
-- Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile.
-
-#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Summer 2024
+#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Fall 2024
 
 *Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 - Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
 - Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency.
+
+#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Summer 2024
+
+*Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
+- Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
+- Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile.
 
 #### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2023
 
