@@ -45,7 +45,8 @@
 - **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, Redshift), R, Java
 - **Data Tools:** AWS (Redshift, S3, Glue, QuickSight), Spark (PySpark), Hadoop, Apache Airflow, Tableau, Excel
 - **Techniques:** Regression, Classification, A/B Testing, Hypothesis Testing, Clustering, Time Series Analysis, PCA
-- **Libraries:** Matplotlib, Seaborn, Statsmodels, SciPy, PyTorch | Other: Git/GitHub, Bash/Shell, Agile Scrum
+- **Libraries:** Matplotlib, Seaborn, Statsmodels, SciPy, PyTorch 
+- **Other:** Git/GitHub, Bash/Shell, Agile Scrum
 
 <!-- - **Tools:** Python (Pandas, NumPy, Seaborn) , SQL (MySQL, PostgreSQL, AWS Redshift), R (dplyr, tidyr, ggplot2), Tableau, Excel
 - **Libraries:** Scikit-learn, SciPy, Statsmodels, Plotly, TensorFlow, PyTorch, PySpark, BeautifulSoup, Requests, Scrapy, os, sys
