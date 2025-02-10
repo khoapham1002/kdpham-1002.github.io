@@ -61,16 +61,16 @@
 
 ### Portfolio Projects
 
-#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Sep - Dec 2024
+#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> \| Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 
 - Designed and implemented ETL pipeline using PySpark and SQL, improving data consistency by 98% and reducing manual data errors by 15%.
-- Developed an inventory tracking system for 1,000+ products, enabling real-time demand forecasting and optimizing stock levels.
+- Developed an inventory management system, automating tracking for 1,000+ products to enable real-time demand forecasting and minimize stock imbalances.
 
 <!-- - Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
 - Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency. -->
 
-#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Jun - Sep 2024
+#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** <br> \| Garden Grove, CA \| Jun - Sep 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
 - Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Enhanced data pipeline for bank marketing analysis, enabling more precise customer targeting.
@@ -79,7 +79,7 @@
 <!-- - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
 - Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile. -->
 
-#### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Jun - Sep 2023
+#### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** <br> \| Garden Grove, CA \| Jun - Sep 2023
 *Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git/GitHub*
 
 - Developed a machine learning model using Random Forest, predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
@@ -90,19 +90,19 @@
 
 
 
-#### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
+#### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** <br> \| Isenberg School of Management \| Fall 2024
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
 
 - Analyzed 40,000+ admissions from university's factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-#### **[Car Sales, Insurance Claims & Charging Behaviors](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors)** \| Garden Grove, CA \| Summer 2024
+#### **[Car Sales, Insurance Claims & Charging Behaviors](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors)** <br> \| Garden Grove, CA \| Summer 2024
 *Technology: Python (Pandas, NumPy, Statsmodels), SQL (PostgreSQL, SQLAlchemy), Git/GitHub*
 
 - Designed and implemented an SPC-based monitoring system, reducing manufacturing defects by identifying deviations in control limits.
 - Built a predictive model for car insurance claims, pinpointing driving experience as the strongest predictor with 77.71% accuracy.
 
-#### **[States Economic Dynamics](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
+#### **[States Economic Dynamics Analysis](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** <br> \| Amherst, MA \| Spring 2024
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
 
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
