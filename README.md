@@ -75,7 +75,7 @@
 #### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** <br> Garden Grove, CA \| Jun - Sep 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
-- Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Enhanced data pipeline for bank marketing analysis, enabling more precise customer targeting.
+- Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Optimized data pipeline for bank marketing analysis, enabling more precise customer targeting.
 - Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profile while identifying industry trends using financial ratio analysis.
 
 <!-- - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
