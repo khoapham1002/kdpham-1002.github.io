@@ -76,7 +76,7 @@
 *Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
 - Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Optimized data pipeline for bank marketing analysis, enabling more precise customer targeting.
-- Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profile while identifying industry trends using financial ratio analysis.
+- Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profiles while identifying industry trends through financial ratio analysis.
 
 <!-- - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
 - Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile. -->
