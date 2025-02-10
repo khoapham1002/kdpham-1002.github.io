@@ -31,24 +31,38 @@ layout: default
 
 ### Professional Experience
 
-#### **Data Assistant** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) \| Amherst, MA \| Fall 2023
+#### **Data Assistant** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) \| Amherst, MA \| Sep - Dec 2023
 
-- Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 300 professors and lecturers for exemplary teaching.
+- Managed and cleaned survey data for workshop participation analysis, ensuring data accuracy. Developed automated reports recognizing 300+ professors and lecturers for Distinguished Teaching Awards.
 
-#### **Research Assistant** \| [Biomedical Informatics NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab) \| Amherst, MA \| Spring 2022
+<!-- - Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 300 professors and lecturers for exemplary teaching. -->
 
-- Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
-- Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
+#### **Research Assistant** \| [Biomedical Informatics NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab) \| Amherst, MA \| Feb - May 2022
+
+- Processed unstructured biomedical data, including EHR notes and scientific articles, to support NLP research. Assisted in developing text-mining algorithms to identify key medical terms in clinical documentation.
+- Optimized large-scale information retrieval by implementing MapReduce and Spark-based inverse index tables, enhancing query efficiency.
+
+<!-- - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
+- Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks. -->
 
 #### **Data Science Program's Mentor** \| [CICS Informatics Department](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising) \| Amherst, MA | Sep 2021 - May 2022
 
-- Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
+- Guided students in curriculum planning, career development, technical preparation for data science and analyst roles, connecting them with mentors from the Computer Science Department.
 
-#### **Teaching Assistant** \| [Five College Language Program](https://www.fivecolleges.edu/languages) \| Amherst, MA | Sep 2021 - Jan 2022
+<!-- - Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department. -->
+
+#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| CS326: Web Programming \| Amherst, MA \| Sep 2021 - May 2022
+*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/GitHub*
+
+- Developed a Q&A interview practice platform for Python, SQL, and cloud technologies, leveraging Feynman Technique and Active Recall to improve retention of technical concepts and problem-solving skills.
+
+<!-- - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique and Active Recall for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment. -->
+
+#### **Teaching Assistant** \| [Five College Language Program](https://www.fivecolleges.edu/languages) \| Amherst, MA | Sep 2021 - Feb 2022
 
 - Conduct weekly lessons to improve students' language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
-#### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Amherst, MA | July - Nov 2024
+#### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Amherst, MA | Summer 2024
 
 - Filmed, edited, and managed video database for dance classes, implementing efficient categorization to enhance digital workflows.
 - Analyzed social media performance, delivering weekly insights and recommendations that drove increased audience engagements and social media growth.
@@ -64,14 +78,15 @@ layout: default
 - **Photography**: I like capturing dance movements. Check ([VSCO][vsco])!
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
-- **Blogging**: [...work in progress...][blog] 🤧!
+- **Blogging**: [...work in progress...][blog] -> Visit my [first blog][isenberg] instead! 🤧
 
 > Add `/mindpalace` after `github.io` to have a peek of another [me][mindpalace]!
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [mdcdance]: https://www.instagram.com/mdcdance/
-[blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+[blog]: https://khoapham1002.github.io/mindpalace/categories/
+[isenberg]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
 [mindpalace]: https://khoapham1002.github.io/mindpalace/about/
 
 * * *

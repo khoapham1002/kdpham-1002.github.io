@@ -30,8 +30,6 @@
 <!-- [Resume][resume]  -->
 <!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
 <!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
-<!-- [Website][website]  -->
-<!-- [website]: https://kdpham-1002.github.io/my-portfolio/ -->
 
 <!-- - 🎓 I'm a Master's student majoring in Business Analytics and Data Science.
 - 📊 I'm passionate about using data to uncover insights and support strategic decision-making.
@@ -42,11 +40,17 @@
 
 ### Technical Skills
 
-- **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, Redshift), R, Java
+- **Programming & Tools:** SQL (MySQL, PostgreSQL, Redshift), Python, R; Git/GitHub, Bash/Shell, Agile Scrum
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, SciPy, PyTorch
+- **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Spark (PySpark), Hadoop, Tableau, Excel
+- **Techniques:** Linear & Logistic Regression, Classification, Clustering, Feature Engineering; ETL & ELT Pipelines, Data Warehousing, Data Modeling; Statistical Analysis, Time Series Analysis, A/B Testing, Hypothesis Testing
+
+
+<!-- - **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, Redshift), R, Java
 - **Data Tools:** AWS (Redshift, S3, Glue, QuickSight), Spark (PySpark), Hadoop, Apache Airflow, Tableau, Excel
 - **Techniques:** Regression, Classification, A/B Testing, Hypothesis Testing, Clustering, Time Series Analysis, PCA
 - **Libraries:** Matplotlib, Seaborn, Statsmodels, SciPy, PyTorch 
-- **Other:** Git/GitHub, Bash/Shell, Agile Scrum
+- **Other:** Git/GitHub, Bash/Shell, Agile Scrum -->
 
 <!-- - **Tools:** Python (Pandas, NumPy, Seaborn) , SQL (MySQL, PostgreSQL, AWS Redshift), R (dplyr, tidyr, ggplot2), Tableau, Excel
 - **Libraries:** Scikit-learn, SciPy, Statsmodels, Plotly, TensorFlow, PyTorch, PySpark, BeautifulSoup, Requests, Scrapy, os, sys
@@ -57,28 +61,34 @@
 
 ### Portfolio Projects
 
-#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Fall 2024
+#### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 
-- Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
-- Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency.
+- Designed and implemented ETL pipeline using PySpark and SQL, improving data consistency by 98% and reducing manual data errors by 15%.
+- Developed an inventory tracking system for 1,000+ products, enabling real-time demand forecasting and optimizing stock levels.
 
-#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Summer 2024
+<!-- - Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
+- Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency. -->
+
+#### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| Garden Grove, CA \| Jun - Sep 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
-- Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
-- Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile.
+- Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Enhanced data pipeline for bank marketing analysis, enabling more precise customer targeting.
+- Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profile while identifying industry trends using financial ratio analysis.
 
-#### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2023
+<!-- - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
+- Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile. -->
+
+#### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Jun - Sep 2023
 *Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git/GitHub*
 
-- Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
-- Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
+- Developed a machine learning model using Random Forest, predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
+- Analyzed survey data from 200+ international students, uncovering social and acculturative stress trends to improve mental health resource accessibility.
 
-#### **[Data Science Interview Preps Platform](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| 2022 - Present
-*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/GitHub*
+<!-- - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
+- Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it. -->
 
-- Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique and Active Recall for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
+
 
 #### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
