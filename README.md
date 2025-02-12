@@ -14,10 +14,10 @@
 
 ### About Me
 
-| [LinkedIn][linkedin] |    kdpham@umass.edu    |     714-858-7494    |
-|:--------------------:|:----------------------:|:-------------------:|
-|  [GitHub][gh-repos]  |   [Tableau][tableau]   |   [Kaggle][kaggle]  |
-|    [My Blog][blog]   | [Dance/Filming][dance] | [Photography][vsco] |
+| [LinkedIn][linkedin]  |  kdpham@umass.edu   |      714-858-7494      |
+|:---------------------:|:-------------------:|:----------------------:|
+|  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
+| [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
