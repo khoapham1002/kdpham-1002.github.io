@@ -14,7 +14,7 @@
 
 ### About Me
 
-| [LinkedIn][linkedin]  |  kdpham@umass.edu   |      714-858-7494      |
+| [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
 |:---------------------:|:-------------------:|:----------------------:|
 |  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
 | [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] |
