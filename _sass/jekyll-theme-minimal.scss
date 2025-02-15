@@ -119,14 +119,14 @@ table {
   width: 100%;
   border-collapse: collapse;
   border: none; /* Removes the table's outer border */
-  table-layout: auto; /* Adjusts table width */
+  table-layout: fixed; /* Adjusts table width */
 }
 
 th, td {
   font-weight: normal;
   color: white;
-  // text-align: left;
-  padding: 5px 5px;
+  text-align: center;
+  padding: 10px 0px;
   border: none;
   // white-space: nowrap; /* Prevents word wrapping */
 }
