@@ -18,10 +18,10 @@ layout: default
 
 ### About Me
 
-| [GitHub][gh-repos] | [LinkedIn][linkedin]        | [Insta/Inspo][ins]     |
-|:------------------:|:---------------------------:|:----------------------:|
+| [GitHub][gh-repos] | [LinkedIn][linkedin]     | [Insta/Inspo][ins]     |
+|:------------------:|:------------------------:|:----------------------:|
 | [Tableau][tableau] | [MindPalace][mindpalace] | [Photography][vsco]    |
-| [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
+| [Kaggle][kaggle]   | [First Blog][blog]       | [Dance/Filming][reels] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
