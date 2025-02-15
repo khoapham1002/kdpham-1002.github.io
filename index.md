@@ -18,10 +18,16 @@ layout: default
 
 ### About Me
 
+|  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
+|:---------------------:|:-------------------:|:----------------------:|
+| [LinkedIn][linkedin] | [My MindPalace][mindpalace] | [My First Blog][blog] |
+| [Photography][vsco] | [Dance/Filming][dance] | [My Inspo][] | 
+
+<!-- 
 | [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
 |:---------------------:|:-------------------:|:----------------------:|
 |  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
-| [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] |
+| [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] | -->
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
@@ -29,6 +35,7 @@ layout: default
 [kaggle]: https://www.kaggle.com/teenee3051
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
+[mindpalace]: https://khoapham1002.github.io/mindpalace/categories/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
 
 
