@@ -20,7 +20,7 @@ layout: default
 
 | [GitHub][gh-repos] | [LinkedIn][linkedin]        | [Insta/Inspo][ins]     |
 |:------------------:|:---------------------------:|:----------------------:|
-| [Tableau][tableau] | [My MindPalace][mindpalace] | [Photography][vsco]    |
+| [Tableau][tableau] | [MindPalace][mindpalace] | [Photography][vsco]    |
 | [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
