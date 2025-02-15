@@ -23,12 +23,6 @@ layout: default
 | [Tableau][tableau] | [My MindPalace][mindpalace] | [Photography][vsco]    |
 | [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
 
-<!-- 
-| [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
-|:---------------------:|:-------------------:|:----------------------:|
-|  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
-| [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] | -->
-
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
@@ -40,6 +34,11 @@ layout: default
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
 
 
+<!-- 
+| [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
+|:---------------------:|:-------------------:|:----------------------:|
+|  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
+| [My First Blog][blog] | [Photography][vsco] | [Dance/Filming][dance] | -->
 
 <!-- [Resume][resume] 
 [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing
