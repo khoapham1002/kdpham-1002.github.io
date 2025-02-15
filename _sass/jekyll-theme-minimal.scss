@@ -288,14 +288,6 @@ ul.downloads {
     padding: 15px;
     overflow-wrap: break-word;
   }
-}
-
-@media print, screen and (max-width: 480px) {
-  body {
-    padding: 15px;
-    overflow-wrap: break-word;
-  }
-  
   div.wrapper {
     width:auto;
     margin:0;
@@ -305,6 +297,26 @@ ul.downloads {
     float:none;
     position:static;
     width:auto;
+    margin:0;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+    overflow-wrap: break-word;
+  }
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+    margin:0;
   }
 }
 
