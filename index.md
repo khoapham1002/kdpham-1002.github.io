@@ -21,7 +21,7 @@ layout: default
 |  [GitHub][gh-repos]   | [Tableau][tableau]  |    [Kaggle][kaggle]    |
 |:---------------------:|:-------------------:|:----------------------:|
 | [LinkedIn][linkedin] | [My MindPalace][mindpalace] | [My First Blog][blog] |
-| [Photography][vsco] | [Dance/Filming][dance] | [My Inspo][] | 
+| [Photography][vsco] | [Dance/Filming][dance] | [My Inspo][ins] | 
 
 <!-- 
 | [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
@@ -35,6 +35,7 @@ layout: default
 [kaggle]: https://www.kaggle.com/teenee3051
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
+[ins]: https://www.instagram.com/teenee_archives/
 [mindpalace]: https://khoapham1002.github.io/mindpalace/categories/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
 
