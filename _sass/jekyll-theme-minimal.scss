@@ -125,9 +125,10 @@ table {
 th, td {
   font-weight: normal;
   color: white;
-  text-align: left;
+  // text-align: left;
   padding: 5px 10px;
   border: none;
+  white-space: nowrap; /* Prevents word wrapping */
 }
 
 dt {
