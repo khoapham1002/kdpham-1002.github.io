@@ -18,10 +18,10 @@ layout: default
 
 ### About Me
 
-| [GitHub][gh-repos]   | [Tableau][tableau]          | [Kaggle][kaggle]       |
-|:--------------------:|:---------------------------:|:----------------------:|
-| [LinkedIn][linkedin] | [My MindPalace][mindpalace] | [My First Blog][blog]  |
-| [Insta/Inspo][ins]   | [Photography][vsco]         | [Dance/Filming][reels] |
+| [GitHub][gh-repos] | [LinkedIn][linkedin]        | [Insta/Inspo][ins]     |
+|:------------------:|:---------------------------:|:----------------------:|
+| [Tableau][tableau] | [My MindPalace][mindpalace] | [Photography][vsco]    |
+| [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
 
 <!-- 
 | [LinkedIn][linkedin]  |     714-858-7494    |    kdpham@umass.edu    |
